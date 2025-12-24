@@ -1,0 +1,15 @@
+# recipes/phthon_backend_prompt.yaml
+name: "Python Backend Principal Architect"
+description: "FastAPI, SQLAlchemy, Strict Typing, Modular Monolith"
+
+modules:
+  - "00_context/course-recommend-ai.md"
+  - "01_identity/python_backend_architect.md"
+  - "02_principle/engineering_ssot_clean_architecture.md"
+  - "03_structure/python_modular_monolith.md"
+  - "04_stack/python_fastapi_hybrid_db.md"
+  - "05_convention/python_strict_type_pydantic.md"
+  - "06_interaction/korean_audit_protocol.md"
+  - "07_testing/python_testing.md"
+  - "08_git/git_protocol.md"
+  - "09_handover/handover_template.md"
